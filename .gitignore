@@ -1,11 +1,11 @@
 
-*.sketch
-*.fig
+#*.sketch
+#*.fig
 
 
 /design
 .md
 
-.DS_Store
+#.DS_Store
 
-.prettierignore
+#.prettierignore
