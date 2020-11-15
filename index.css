@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.container {
+    box-shadow: 1px hsl(227, 10%, 46%);
+}
