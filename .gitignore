@@ -3,8 +3,8 @@
 *.fig
 
 
-design
-*.md
+/design
+.md
 
 .DS_Store
 
